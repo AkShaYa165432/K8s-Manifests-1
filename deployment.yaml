@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: akshaya23/packages:18
+      - image: akshaya23/packages:latest
         name: myapp
         resources: {}
 status: {}
